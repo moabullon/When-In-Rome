@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "Number Converter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*" 
+  },
+  "author": "MB",
+  "license": "ISC"
+}
